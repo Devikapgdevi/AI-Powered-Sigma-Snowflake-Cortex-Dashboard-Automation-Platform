@@ -11,6 +11,10 @@ AI-powered analytics workflow integrating Sigma, Snowflake Cortex Code, MCP Serv
 > End-to-end implementation of an AI-driven analytics pipeline using Claude AI + Sigma Computing,
 > orchestrated through Snowflake Cortex Code (CoCo). Built and documented by **Devika P G**.
 
+
+# AI-Powered-Sigma-Snowflake-Cortex-Dashboard-Automation-Platform
+AI-powered analytics workflow integrating Sigma, Snowflake Cortex Code, MCP Server, and REST APIs for automated data model creation, dashboard generation, and analytics orchestration.
+
 ---
 
 ## 📺 Demo Video
