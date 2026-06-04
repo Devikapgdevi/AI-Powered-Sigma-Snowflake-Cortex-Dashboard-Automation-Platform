@@ -15,7 +15,9 @@ AI-powered analytics workflow integrating Sigma, Snowflake Cortex Code, MCP Serv
 
 ## 📺 Demo Video
 
-https://github.com/Devikapgdevi/[YOUR-REPO]/blob/main/claude.mp4
+DEMO 1 - [https://github.com/Devikapgdevi/[YOUR-REPO]/blob/main/claude.mp4](https://github.com/Devikapgdevi/AI-Powered-Sigma-Snowflake-Cortex-Dashboard-Automation-Platform/blob/main/CLAUDE.AI%2BSIGMA%20DEMO.mp4)
+DEMO 2 - 
+
 
 > Watch the full end-to-end workflow — from AI prompt to live Sigma dashboard.
 
